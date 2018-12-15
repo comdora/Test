@@ -21,10 +21,10 @@ object Form1: TForm1
     Caption = 'Test'
   end
   object lblNova: TLabel
-    Left = 56
+    Left = 48
     Top = 104
-    Width = 233
+    Width = 168
     Height = 23
-    Caption = 'Nova Labela Dodata testova'
+    Caption = 'Nova Labela Dodata'
   end
 end
